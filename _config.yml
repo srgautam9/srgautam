@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Somraj Gautam"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "PhD. Scholar at IIT Jodhpur"
+  location         : "Jodhpur, India"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  email            : "gautam.8@iitj.ac.in" 
 
   # Academic websites
   academia         : # URL
