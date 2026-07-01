@@ -25,13 +25,4 @@ author_profile: true
   NAACL 2025 <br>
   <a href="https://aclanthology.org/2025.findings-naacl.320.pdf">[Paper]</a><br>
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on <u><a href="[{{author.googlescholar}}](https://scholar.google.com/citations?user=QqtDIdcAAAAJ&hl=en)">my Google Scholar profile</a>.</u>
