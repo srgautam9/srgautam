@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD Scholar at [IIT Jodhpur](https://www.iitj.ac.in/) under the guidance of [Prof. Gaurav Harit](https://home.iitj.ac.in/~gharit/gharit/index.html) with a deep interest in machine learning, computer vision, and natural language processing. My work spans a variety of areas, including object detection, machine reading comprehension, document image analysis, and active learning. I focus on developing methods that enable machines to better understand visual and textual data while minimizing the need for human effort in the annotation process.
+I received my MTech. degree from IIT Dhanbad in 2020.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+You will find me at the Language Theory and Knowledge Representation Lab (Room no. 114) at the IIT Jodhpur CSE department.
+My personal email ID is: [somrajbg9@gmail.com](somrajbg9@gmail.com)
 
 A data-driven personal website
 ======
