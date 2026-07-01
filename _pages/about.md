@@ -14,9 +14,9 @@ I received my MTech. degree from IIT Dhanbad in 2020.
 You will find me at the Language Theory and Knowledge Representation Lab (Room no. 114) at the IIT Jodhpur CSE department.
 My personal email ID is: [somrajbg9@gmail.com](somrajbg9@gmail.com)
 
-<div class="news-scroll" markdown="1">
+<!-- <div class="news-scroll" markdown="1">
 ## News [scroll down for more news] 
 - **[Nov 2025]** Recognized as an outstanding reviewer at BMVC 2025.
 - **[Nov 2025]** My Work on Few-shot Video Object Detection got accepted at AAAI 2026 Main Track.
 - **[June 2025]** My paper on Video Moment Retrieval got accepted at ICCV 2025.
-</div>
+</div> -->
